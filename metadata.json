@@ -1,0 +1,6 @@
+{
+  "name": "Webpage Creator",
+  "description": "Visual webpage creator with custom AI model selection, self-deployment, Google Maps scraping, visit counters, and custom styles search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
